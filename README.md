@@ -1,4 +1,5 @@
 <h1 align="center">Latest Version: 2412</h1>
+
 > [!NOTE]
 > **scriptor-quick-info:**\
 > _Create and compile action scripts at runtime in your game to script bosses, maps, every game element._
