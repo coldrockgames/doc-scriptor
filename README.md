@@ -1,8 +1,12 @@
 <h1 align="center">Latest Version: 2412</h1>
 
-> [!NOTE]
-> **scriptor-quick-info:**\
-> _Create and compile action scripts at runtime in your game to script bosses, maps, every game element._
+## Scriptor Key Features
+* scriptor is made for GameMaker Studio
+* scriptor is a scripting language that executes in your running game
+* You can create, compile and run scripts at any time
+* Script your maps, bosses, events through json files or simple text files outside of the source code of your game
+* You can update and patch your encounters without modifying the game source!
+* Scriptor scripts can interact with your game objects, variables, rooms, even with the native gml functions!
 
 > [!CAUTION]
 > Work in Progress
