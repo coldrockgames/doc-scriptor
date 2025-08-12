@@ -25,7 +25,7 @@
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
             <Keywords name="Keywords1">#include #macro #broker override&#x000D;&#x000A;</Keywords>
-            <Keywords name="Keywords2">undefined noone vlog dlog ilog wlog elog flog true false $bc $res AUDIOSETTINGS BROADCASTER DELTA_TIME_SECS DELTA_TIME_SECS_REAL GAME_CHANNEL_STRING GAME_SPEED GAME_VERSION_STRING GAME_VERSION_MAJOR GAME_VERSION_MINOR GAME_VERSION_BUILD GAMECONTROLLER GAMESETTINGS GAMESTARTER GLOBALDATA GUI_MOUSE_DELTA_X GUI_MOUSE_DELTA_Y GUI_MOUSE_HAS_MOVED GUI_MOUSE_X GUI_MOUSE_X_PREVIOUS GUI_MOUSE_Y GUI_MOUSE_Y_PREVIOUS GUI_POPUP_VISIBLE MOUSE_CURSOR MOUSE_DELTA_X MOUSE_DELTA_Y MOUSE_HAS_MOVED MOUSE_X_PREVIOUS MOUSE_Y_PREVIOUS MY_CLASS_NAME MY_ID MY_NAME MY_OBJECT_NAME PARTSYS ROOMCONTROLLER SAVEGAME_SAVE_IN_PROGRESS SAVEGAME_LOAD_IN_PROGRESS SECRET_WORD_TRACKER UI_ROOT WINDOW_SIZE_DELTA_X WINDOW_SIZE_DELTA_Y WINDOW_SIZE_HAS_CHANGED WINDOW_SIZE_X WINDOW_SIZE_X_PREVIOUS WINDOW_SIZE_Y WINDOW_SIZE_Y_PREVIOUS</Keywords>
+            <Keywords name="Keywords2">undefined noone vlog dlog ilog wlog elog flog true false $bc $res $argcnt $args $arg0 $arg1 $arg2 $arg3 $arg4 $arg5 $arg6 $arg7 $arg8 $arg9 $arg10 $arg11 $arg12 $arg13 $arg14 $arg15 AUDIOSETTINGS BROADCASTER DELTA_TIME_SECS DELTA_TIME_SECS_REAL GAME_CHANNEL_STRING GAME_SPEED GAME_VERSION_STRING GAME_VERSION_MAJOR GAME_VERSION_MINOR GAME_VERSION_BUILD GAMECONTROLLER GAMESETTINGS GAMESTARTER GLOBALDATA GUI_MOUSE_DELTA_X GUI_MOUSE_DELTA_Y GUI_MOUSE_HAS_MOVED GUI_MOUSE_X GUI_MOUSE_X_PREVIOUS GUI_MOUSE_Y GUI_MOUSE_Y_PREVIOUS GUI_POPUP_VISIBLE MOUSE_CURSOR MOUSE_DELTA_X MOUSE_DELTA_Y MOUSE_HAS_MOVED MOUSE_X_PREVIOUS MOUSE_Y_PREVIOUS MY_CLASS_NAME MY_ID MY_NAME MY_OBJECT_NAME PARTSYS ROOMCONTROLLER SAVEGAME_SAVE_IN_PROGRESS SAVEGAME_LOAD_IN_PROGRESS SECRET_WORD_TRACKER UI_ROOT WINDOW_SIZE_DELTA_X WINDOW_SIZE_DELTA_Y WINDOW_SIZE_HAS_CHANGED WINDOW_SIZE_X WINDOW_SIZE_X_PREVIOUS WINDOW_SIZE_Y WINDOW_SIZE_Y_PREVIOUS</Keywords>
             <Keywords name="Keywords3">goto var if then break continue to step gosub return call reset</Keywords>
             <Keywords name="Keywords4">self global</Keywords>
             <Keywords name="Keywords5">id x y direction speed layer depth visible persistent solid sprite_index image_index image_number image_speed image_alpha image_angle image_blend image_xscale image_yscale hspeed vspeed object_index</Keywords>
@@ -35,11 +35,11 @@
             <Keywords name="Delimiters">00&quot; 01\ 02&quot; 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
         </KeywordLists>
         <Styles>
-            <WordsStyle name="DEFAULT" fgColor="C0C0C0" bgColor="FFFFFF" colorStyle="1" fontStyle="0" nesting="0" />
+            <WordsStyle name="DEFAULT" fgColor="ACABF5" bgColor="FFFFFF" colorStyle="1" fontStyle="0" nesting="0" />
             <WordsStyle name="COMMENTS" fgColor="000000" bgColor="FFFFFF" fontStyle="0" nesting="0" />
             <WordsStyle name="LINE COMMENTS" fgColor="008000" bgColor="FFFFFF" colorStyle="1" fontStyle="0" nesting="0" />
             <WordsStyle name="NUMBERS" fgColor="FF8080" bgColor="FFFFFF" colorStyle="1" fontStyle="0" nesting="0" />
-            <WordsStyle name="KEYWORDS1" fgColor="0080FF" bgColor="000000" colorStyle="1" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="8080FF" bgColor="000000" colorStyle="1" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS2" fgColor="FF4848" bgColor="FFFFFF" colorStyle="1" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS3" fgColor="FFFF80" bgColor="FFFFFF" colorStyle="1" fontStyle="0" nesting="0" />
             <WordsStyle name="KEYWORDS4" fgColor="FF80FF" bgColor="FFFFFF" colorStyle="1" fontStyle="0" nesting="0" />
