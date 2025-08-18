@@ -8,8 +8,6 @@ Scriptor is a scripting language that can compile and run in your running GameMa
 
 With scriptor you can update and patch your object's behavior without modifying the source code of your game. Most professional games use scripting utilities like this to decouple game events from the source code.
 
-<h1 align="center">Latest Version: 2412</h1>
-
 ## Scriptor Key Features
 * scriptor is made for GameMaker Studio
 * scriptor is a scripting language that executes in your running game
